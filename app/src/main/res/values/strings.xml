@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAMFlix</string>
+    <string name="title_add_movie">Añadir Nueva Película</string>
+    <string name="label_movie_title">Título de la película</string>
+    <string name="label_director">Director / Directora</string>
+    <string name="label_year">Año de estreno</string>
+    <string name="chk_watched">Ya he visto esta película</string>
+    <string name="btn_save">Guardar Película</string>
+    <string name="cd_fav_icon">Conmutar favorito</string>
+    <string name="empty_list">No hay películas registradas</string>
+</resources>
